@@ -8,7 +8,7 @@ namespace SerialForce
     /*
      * 
      *      SerialForce
-     *        by Serhad Technologies  
+     *        by Serhad Cicekli  
      *        
      */
 
